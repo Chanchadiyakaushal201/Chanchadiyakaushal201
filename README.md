@@ -1,43 +1,52 @@
 # 👋 About Me
 
-I am an aspiring Data Analyst with a strong foundation in Microsoft Excel and business reporting. As a fresher, I focus on developing practical analytical skills by working on real-world sales and performance dashboards.
+Hi, I'm **Kaushal Chanchadiya**, an aspiring Data Analyst passionate about transforming raw data into actionable business insights.
 
-I have hands-on experience in:
+I enjoy solving business problems through data analysis and have built multiple end-to-end analytics projects covering the complete workflow—from data cleaning and exploration to SQL analysis, data modeling, interactive dashboards, and business storytelling.
 
-- Data cleaning and transformation using Power Query  
-- Building interactive dashboards with Pivot Tables  
-- Creating KPI reports and trend analysis  
-- Writing advanced Excel formulas for dynamic insights  
+## 🛠️ Technical Skills
 
-I am passionate about converting raw data into structured insights that support informed business decisions.
-
----
-
-## Career Objective
-
-To begin my career as a Data Analyst in a growth-oriented organization where I can apply my analytical skills, continuously learn advanced tools like SQL and Power BI, and contribute to data-driven decision-making.
+* **Microsoft Excel** (Power Query, Pivot Tables, Advanced Formulas)
+* **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+* **SQL & PostgreSQL**
+* **Power BI & DAX**
+* **Data Cleaning & Transformation**
+* **Data Visualization**
+* **Business Intelligence**
 
 ---
 
-## Core Strengths
+## 🚀 Featured Portfolio Projects
 
-- Analytical thinking  
-- Attention to detail  
-- Structured problem-solving  
-- Clean and professional dashboard design  
+* 📊 IKEA India Sales & Operations Analytics
+* 📈 Comet Business Dashboard
+* 🛒 Minimalist SQL Analytics
+* 🐍 Sales Data Exploratory Analysis (Python)
+* 📑 Excel Sales Dashboard
+
+These projects demonstrate my ability to work across the complete analytics pipeline, including data preparation, SQL querying, Python analysis, data modeling, KPI development, and interactive dashboard creation.
 
 ---
 
-## Current Focus
+## 🎯 Career Objective
 
-- Strengthening SQL fundamentals  
-- Learning Power BI for advanced visualization  
-- Building real-world analytics projects  
-- Improving business storytelling with data  
+I am seeking an opportunity as a **Data Analyst** where I can apply my analytical skills, contribute to real business challenges, and continue growing in Business Intelligence, Data Analytics, and Decision Support.
 
---- 
+---
 
-## Connect With Me
+## 🌱 Currently Learning
 
-**LinkedIn:**  
-[https://www.linkedin.com/in/kaushalchanchadiya162004/](https://www.linkedin.com/in/kaushalchanchadiya162004/)
+* Advanced SQL Optimization
+* Advanced DAX & Power BI
+* Business Storytelling & Dashboard Design
+* Analytics Best Practices
+
+---
+
+## 🤝 Let's Connect
+
+📧 I'm always happy to connect with fellow data professionals, recruiters, and anyone interested in analytics.
+
+**LinkedIn:**
+https://www.linkedin.com/in/kaushalchanchadiya162004/
+
